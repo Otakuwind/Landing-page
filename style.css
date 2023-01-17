@@ -1,0 +1,47 @@
+.user-box
+{
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+}
+
+.navbar-nav li a
+{
+    color: black !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+     padding: 0 10px;
+}
+.navbar-brand
+{
+  color: black !important;
+  font-weight: 600;
+  padding: 0 10px;
+
+}
+#services
+{
+padding: 100px 0;
+color: #fff;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 900;
+}
+.services .p{
+  font-family: cursive;
+}
+.user-box{
+    top: 50%;
+    left: 50%; 
+    }
+    .user-box img
+{
+border-radius: 50%;
+width: 250px;
+border: 2px solid #6caed5;
+opacity: 1;
+background: black;
+}
