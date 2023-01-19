@@ -166,9 +166,4 @@ background: #cccccc;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
-  /****Media queries****/
-@media(max-width:768px){
-    body{
-        display: none;
-    }
-}
+  
